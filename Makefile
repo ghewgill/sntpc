@@ -1,0 +1,1 @@
+sntpc: sntpc.c
